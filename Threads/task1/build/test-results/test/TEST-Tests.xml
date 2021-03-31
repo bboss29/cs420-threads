@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-31T18:47:58" hostname="1099L-BBOSS" time="0.79">
+  <properties/>
+  <testcase name="testCar" classname="Tests" time="0.002"/>
+  <testcase name="testRacer" classname="Tests" time="0.788"/>
+  <system-out><![CDATA[Charging
+Charging
+Charging
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
